@@ -1,0 +1,23 @@
+.bujufour{
+    height: 40px;
+    width: 100%;
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    font-size: 17px;
+   
+}
+.location{
+    display: flex;
+}
+.aa{
+    padding-left: 100px;
+}
+.bb{
+    display: flex;
+   
+    list-style: none;
+    padding-left: 300px;
+   
+}
+.bb li{
+    padding-left: 50px;
+}

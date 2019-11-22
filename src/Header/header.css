@@ -1,0 +1,42 @@
+.header{
+    padding-top: 600px;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-image: url(../Img/six.jpg);
+    display: flex;
+    padding-top: 1em; 
+    justify-content: space-around;
+    align-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-style: normal;
+}
+.center{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    
+}
+.right{
+    width:10%;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.right1{
+    width:10%;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.header li{
+    float: left;
+    padding: 0 13px;
+    list-style: none;
+    
+}
+.header Link{
+    
+    text-decoration: none;
+}

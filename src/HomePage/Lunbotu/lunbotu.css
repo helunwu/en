@@ -1,0 +1,13 @@
+.picture{
+    width: 730px;
+    height: 350px;
+    margin-top: 4%;
+    margin-left: 3%;
+}
+.right{
+    width: 250px;
+    margin-top: 2%;
+}
+.hh{
+    position: fixed;
+}

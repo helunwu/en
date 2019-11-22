@@ -1,0 +1,15 @@
+.population{
+       
+       height: 100px;
+       width: 100%;
+       
+       background-image: url(../Img/six.jpg);
+      
+}
+.popu{ 
+      line-height:40px; 
+      justify-content: center;
+      text-align: center;
+       
+}
+

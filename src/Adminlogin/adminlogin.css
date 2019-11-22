@@ -1,0 +1,28 @@
+.cc{
+    height: 730px;
+    width: 100%;
+    position: relative;
+    background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);
+}
+
+.aa{
+    
+    margin: auto;
+  
+    height: 200px;
+    background-image: linear-gradient(-225deg, #9EFBD3 0%, #57E9F2 48%, #45D4FB 100%);
+    width: 250px;
+    list-style: none;
+
+}
+.dd{
+   padding-top: 200px;
+}
+.bb{
+    padding-left: 85px;
+   
+}
+
+.cc{
+    padding-left: 20px;
+}

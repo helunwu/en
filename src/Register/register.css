@@ -1,0 +1,27 @@
+.register{
+    height: 6em;
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 20px;
+}
+.b{
+    
+    height: 664px;
+    width: 100%;
+    padding-top: 5em;
+}
+.c{
+    position: relative;
+    margin: 0px auto;
+    margin-top: 200px;
+    width: 350px;
+}
+.Item{
+    float: right;
+}
+.d{
+    position: relative;
+    margin-left: 115px;
+}

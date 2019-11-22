@@ -1,0 +1,88 @@
+.login{
+    height: 5em;
+    background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 35px;
+}
+.a{
+    background-image: linear-gradient(to bottom, #d9afd9 0%, #ace0f9 100%);
+    height:664px;
+    width: 100%;
+    padding-top:5em ;
+}
+.div{
+    position: relative;
+    margin: 0px auto;
+    margin-top: 200px;
+    width: 350px;
+}
+.Item{
+    float: right;
+}
+.btn{
+    position: relative;
+    margin-left: 95px;
+}
+.haha{
+height:3em ;
+}
+.hhh{
+    margin-left: 120px;
+    font-size: 1.8em;
+    color: black;
+    display: inline;
+}
+.nnn{
+   width: 100%;
+   line-height: 15px;
+   color: #9c9c9c;
+   margin-top: 5px;
+    font-size: 1em;
+    margin-left: 90px;
+    
+}
+.kkk{
+    margin-left: 385px;
+    font-size: 1.8em;
+    display: flex;
+    justify-content:space-around;
+    align-items: center; 
+   display: inline;
+   color: black;
+}
+.eee{
+    line-height: 15px;
+    color: #9c9c9c;
+     font-size: 1em;
+     margin-left: 350px;
+     font-size: 1em;
+     display: flex;
+     justify-content:space-around;
+     align-items: center; 
+    display: inline;
+}
+.ttt{
+    color: black;
+    margin-left: 460px;
+    font-size: 1.8em;
+    display: flex;
+    justify-content:space-around;
+   display: inline;
+}
+.ooo{
+    line-height: 15px;
+    color: #9c9c9c;
+     font-size: 1em;
+     margin-left: 390px;
+     font-size: 1em;
+     display: flex;
+     justify-content:space-around;
+    display: inline;
+}
+.lll{
+   text-align:center;
+   font-family: "Segoe Print";
+   font-size: 3em;
+}

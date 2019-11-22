@@ -1,0 +1,14 @@
+.personal{
+    height: 300px;
+    padding-top: 100px;
+    display: flex;
+    
+    align-content: center;
+    justify-content: center;
+}
+.person{
+    background-color: aqua;
+    align-content: center;
+    justify-content: center;
+    width: 20%;
+}

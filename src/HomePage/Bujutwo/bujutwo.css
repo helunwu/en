@@ -1,0 +1,36 @@
+/* .opc{
+    opacity: 0.5;
+}
+.aa{
+    composes:opc;
+} */
+.search{
+    height: 100px;
+   
+}
+.log{
+      padding-top: 10px;
+      padding-left:10px;
+      
+      font-size: 20px;
+
+}
+.login{
+    display: flex;
+    float: left;
+    
+}
+.login1{
+    display: flex;
+    float: left;
+}
+.login2{
+   padding-left: 80px;
+}
+.tubiao{
+    display: flex;
+    float: right;
+    padding-right: 60px;
+    font-size: 20px;
+    padding-top: 10px;
+}

@@ -1,0 +1,21 @@
+.opc{
+    opacity: 0.9;
+}
+.aa{
+    
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    background-image: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);
+    justify-content: center;
+}
+.bb{
+    width: 60%;
+}
+.message{
+    height:100%;
+    width: 40%;
+    float: right;
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+    
+}

@@ -1,0 +1,23 @@
+.size{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2em;
+}
+.salary{
+    color: red;
+}
+.company{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(178, 181, 184);
+}
+.h{
+    position: absolute;
+    width: 50px;
+}
+.picture{
+    margin-top: 15%;
+    width: 55px;
+}
+.m{
+    width: 130px;
+    margin-left: 19%;
+}

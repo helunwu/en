@@ -1,0 +1,8 @@
+.a{
+    height: 600px;
+    width: 1200px;
+    display: flex;
+    float: right;
+    justify-content: space-around;
+    
+}
